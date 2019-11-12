@@ -8,6 +8,11 @@
     width: 50%;
     margin-bottom: 50px;
   }
+  .top-wrapper {
+
+  text-align: center;
+
+}
 
   .top-wrapper h1 {
     font-size: 32px;
@@ -24,6 +29,11 @@
 
   width: 100%;
   }
+  .top-wrapper {
+
+  text-align: center;
+
+}
   .lesson {
     width: 100%;
   }
