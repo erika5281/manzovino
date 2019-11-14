@@ -2,7 +2,7 @@
 @media (max-width: 1000px) {
   header {
 
-  width: 100%;
+  width: 80%;
   }
   .lesson {
     width: 50%;
@@ -27,7 +27,7 @@
 @media (max-width: 670px) {
   header {
 
-  width: 100%;
+  width: 80%;
   }
   .top-wrapper {
 
